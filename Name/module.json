@@ -1,0 +1,15 @@
+{
+  "id": "guid",
+  "name": "name",
+  "type": type,
+  "vendor": "vendor",
+  "aliases":
+  [
+    "alias"
+  ],
+  "url": "url",
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "prefix"
+}
